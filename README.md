@@ -1,5 +1,5 @@
 ## Accessibility Consideration of Custom button
-* Must have visual focus indicator
+* Have visual focus indicator
 * Functional with mouse and keyboard
 * Available with keyboard.
 * ### Terminology
