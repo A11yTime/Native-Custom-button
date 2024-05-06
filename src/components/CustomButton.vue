@@ -3,6 +3,7 @@
     <h1>Custom button</h1>
     <div class="container-primary">
       <div class="primary-button" 
+      role="button"
       tabindex="0"
       @click="actionMethod"
       @keyup.enter="actionMethod">
